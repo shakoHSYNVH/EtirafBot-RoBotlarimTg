@@ -29,6 +29,10 @@
       "ETIRAF_QRUP": {
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
          "value": "-1727079853"
+},      
+      "ETIRAF2_QRUP": {
+         "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
+         "value": "-1727079853"
       },
       "LOG_QRUP": {
          "description": "Bu qrupa botunuz giriş çıxış bilgiləri və xüsusi gizli məlumatlar göndərəcəy bu qrupda yalnız özünüz olun",
