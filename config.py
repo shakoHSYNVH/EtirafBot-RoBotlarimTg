@@ -27,7 +27,7 @@ bot_token = os.environ.get("TOKEN")
 client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
 #
 admin_qrup = int(os.environ.get("ADMIN_QRUP"))
-etiraf_qrup = int(os.environ.get("ETIRAF_QRUP"))
+etiraf_qrup = int(os.environ.get("ETIRAF2_QRUP"))
 etiraf_qrup = int(os.environ.get("ETIRAF_QRUP"))
 kanal = os.environ.get("kanal")
 log_qrup = int(os.environ.get("LOG_QRUP"))
